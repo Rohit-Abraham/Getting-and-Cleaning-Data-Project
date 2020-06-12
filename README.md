@@ -15,4 +15,4 @@ This repository is a Rohit Abraham submission for Getting and Cleaning Data cour
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-`FinalData.txt` is the exported final data after going through all the sequences described above.
+`tidyData.txt` is the exported final data after going through all the sequences described above.
